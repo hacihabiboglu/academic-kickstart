@@ -71,4 +71,4 @@ email: ""
 # - Visitors
 ---
 
-Hüseyin Hacıhabiboğlu is an associate professor of signal processing at METU Graduate School of Informatics. His research interests are in audio and acoustical signal processing including microphone arrays, spatial audio, interactive audio systems as well as theory of signal processing. He is a senior member of the IEEE and an associate editor of IEEE/ACM Transactions on Audio, Speech and Language Processing. He is also a member of the UKRI International Peer Review College.
+Hüseyin Hacıhabiboğlu is an associate professor of signal processing at METU Graduate School of Informatics. His research interests are in audio and acoustical signal processing including microphone arrays, spatial audio, interactive audio systems as well as theory of signal processing. He is a senior member of the IEEE and an associate editor of IEEE/ACM Transactions on Audio, Speech and Language Processing. He is also a member of TUBITAK Advisory Board of DG International Relations (UIDB) and the UKRI International Peer Review College.
