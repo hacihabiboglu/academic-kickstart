@@ -18,11 +18,11 @@ organizations:
   url: "http://www.ii.metu.edu.tr"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Master of spherical harmonics up to 4th order
 
 interests:
 - Mircophone array signal processing
-- Spatial, 3D and 6DoF audio
+- Spatial, immersive, 3D and 6DoF audio
 - Auditory perception
 - Theory of signal processing
 
